@@ -71,7 +71,7 @@ const paragonCosts: EnumDictionary<TowerType, number> = {
     [TowerType.Ice]: 0,
     [TowerType.Glue]: 0,
     [TowerType.Sniper]: 0,
-    [TowerType.Sub]: 0,
+    [TowerType.Sub]: 400000,
     [TowerType.Buccaneer]: 550000,
     [TowerType.Ace]: 900000,
     [TowerType.Heli]: 0,
